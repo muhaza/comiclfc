@@ -1,0 +1,13 @@
+{
+    "items": [
+      {
+        "title": "Image 01",
+        "imageUrl": "assets/images/face2.jpg"
+      },
+  
+      {
+        "title": "Image 02",
+        "imageUrl": "https://preview.amp.dev/static/inline-examples/images/sunset.jpg"
+      }
+    ]
+  }
