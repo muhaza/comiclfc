@@ -24,6 +24,7 @@
       <link rel="stylesheet" href="assets/theme/css/style.css">
       <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
       <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+      <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
    </head>
    <body>
       <section class="menu cid-qTkzRZLJNu" once="menu" id="menu1-7">
@@ -49,7 +50,7 @@
                   </a>
                   </span>
                   <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-2"
-                     href="https://mobirise.com">
+                     href="/">
                   COMIC LFC</a></span>
                </div>
             </div>
@@ -66,7 +67,7 @@
                   </li> -->
                </ul>
                <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-secondary display-4"
-                  href="https://mobirise.com">
+                  href="Submit.html">
                   <span class="mbri-save mbr-iconfont mbr-iconfont-btn "></span>Hantar Karya!
                   </a>
                </div>
@@ -82,7 +83,8 @@
             <div class="image-entry col-sm col-md-6 col-lg-4" style="margin:0 auto">
                <b class="container image-title">{{title}}</b>
                <br>
-               <amp-img src="{{imageUrl}}" width="auto" height="550"></amp-img>
+               <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="auto" height="550"></amp-img>
+               <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
                <div class="item-social pt-2 text-center">
                   
                   <a href="{{facebook}}" target="_blank">
