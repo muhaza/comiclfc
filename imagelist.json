@@ -3,13 +3,15 @@
       {
         "title": "Awek Senyum",
         "imageUrl": "assets/images/face2.jpg",
-        "facebook": "http://www.facebook.com"
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com"
       },
   
       {
-        "title": "Image 02",
-        "imageUrl": "https://preview.amp.dev/static/inline-examples/images/sunset.jpg",
-        "facebook": "www.facebook.com"
+        "title": "Muhaza",
+        "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/70403527_148381859859734_7030008345608060928_n.jpg?_nc_cat=111&_nc_oc=AQnbsxWIBh1vknkIexl740JugPEfj0rw9EHOityBvapcDath_OY9i4aElO3XNwqhKgg&_nc_ht=scontent.fkul13-1.fna&oh=19245a6d3f0f819e23dbb4a59896788d&oe=5E5B1599",
+        "facebook": "http://www.facebook.com",
+        "instagram": "http://www.instagram.com"
       }
     ]
   }

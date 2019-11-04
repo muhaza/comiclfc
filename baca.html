@@ -75,22 +75,23 @@
          </nav>
       </section>
       <br><br><br>
-      <div class="container">
-         <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-2"><br>Karya disusun dari latest</h2>
+      <div class="container pb-3 mb-3" style="background-color:lightgrey;">
+         <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style"><br>Karya disusun dari latest</h2>
       </div>
       <amp-list width="auto" height="500" layout="fixed-height" src="imagelist.json">
          <template type="amp-mustache">
             <div class="image-entry col-sm col-md-6 col-lg-4" style="margin:0 auto">
-               <b class="container image-title">{{title}}</b>
+               <b class="container image-title mbr-section-subtitle  
+               display-5 align-center mbr-light mbr-fonts-style">{{title}}</b>
                <br>
                <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="auto" height="550"></amp-img>
                <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
-               <div class="item-social pt-2 text-center">
+               <div class="item-social pt-2 text-center mt-3">
                   
                   <a href="{{facebook}}" target="_blank">
                   <span class="p-1 socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
                   </a>
-                  <a href="{{facebook}}" target="_blank">
+                  <a href="{{instagram}}" target="_blank">
                   <span class="p-1 socicon-instagram socicon mbr-iconfont mbr-iconfont-social"></span>
                   </a>
                  
