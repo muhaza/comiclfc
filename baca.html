@@ -11,7 +11,8 @@
       <script async src="https://cdn.ampproject.org/v0.js"></script>
       <script custom-element="amp-list" src="https://cdn.ampproject.org/v0/amp-list-0.1.js" async></script>
       <script custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js" async></script>
-      <link rel="canonical" href="https://preview.amp.dev/documentation/components/amp-list.example.2.html">
+      <!-- <link rel="canonical" href="https://preview.amp.dev/documentation/components/amp-list.example.2.html"> -->
+      <script async custom-element="amp-addthis" src="https://cdn.ampproject.org/v0/amp-addthis-0.1.js"></script>
       <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
       <title>Baca</title>
       <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
@@ -76,15 +77,18 @@
       </section>
       <br><br><br>
       <div class="container pb-3 mb-3" style="background-color:lightgrey;">
-         <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style"><br>Karya disusun dari latest</h2>
+         <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style">
+            <br>Karya disusun dari Baru ke Lama
+         </h2>
       </div>
       <amp-list width="auto" height="500" layout="fixed-height" src="imagelist.json">
          <template type="amp-mustache">
             <div class="image-entry col-sm col-md-6 col-lg-4" style="margin:0 auto">
                <b class=" image-title mbr-section-subtitle  
-               display-5 align-center mbr-light mbr-fonts-style">{{title}}</b>
+               display-5 align-center mbr-light mbr-fonts-style">{{nama}}: {{title}}</b>
                <br>
-               <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="auto" height="480"></amp-img>
+               <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" 
+               width="auto" height="500"></amp-img>
                <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
                <div class="item-social pt-2 text-center mt-3">
                   
