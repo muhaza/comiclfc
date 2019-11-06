@@ -118,14 +118,31 @@
       </amp-list>
       <h1><br></h1>
       <h1><br></h1>
+
+      <script>
+      
+      function utamaButton(){
+         navigator.vibrate(100);
+         window.location.href = "/index.html";
+      }
+
+      function submitButton(){
+         navigator.vibrate(100);
+         window.location.href = "/Submit.html";
+      }
+      </script>
+
+
       <section once="footers" class="cid-rGR5fMFAeH" id="footer7-6">
          <div class="container">
             <div class="media-container-row align-center mbr-white">
                <div class="row row-links">
                   <ul class="foot-menu">
-                     <div class="mbr-section-btn"><a class="btn btn-sm btn-secondary display-4"
-                        href="index.html">UTAMA</a>
-                        <a class="btn btn-sm btn-white-outline display-4" href="Submit.html">HANTAR</a>
+                     <div class="mbr-section-btn">
+                        <div class="btn btn-sm btn-secondary display-4" style="border-radius:25px"
+                        onclick="utamaButton()"
+                        >UTAMA</div>
+                        <a class="btn btn-sm btn-white-outline display-4" onclick="submitButton()">HANTAR</a>
                      </div>
                   </ul>
                </div>
