@@ -505,6 +505,7 @@ a.text-black:focus {
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
+  box-shadow: 0 3px #343a4026;
 }
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
@@ -512,8 +513,8 @@ a.text-black:focus {
 }
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
-  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2) !important;
-  -webkit-box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2) !important;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2) !important;
+  -webkit-box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2) !important;
 }
 .mbr-gallery-filter li a {
   border-radius: 100px !important;
@@ -576,14 +577,14 @@ blockquote {
   border-radius: 100px !important;
 }
 .mbr-form .input-group-btn a.btn:hover {
-  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
 }
 .mbr-form .input-group-btn button[type="submit"] {
   border-radius: 100px !important;
   padding: 1rem 3rem;
 }
 .mbr-form .input-group-btn button[type="submit"]:hover {
-  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.2);
 }
 .form2 .form-control {
   border-top-left-radius: 100px;
