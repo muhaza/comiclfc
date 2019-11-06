@@ -2115,3 +2115,12 @@ section.lazy-placeholder:after {
 .cid-rGR5fMFAeH .media-container-row .row-copirayt p {
   width: 100%;
 }
+
+.lfc-card{
+  background-color: #f7f7f7;
+    border-radius: 10px;
+    margin: 15px 8px !important;
+    width: 95%;
+    box-shadow: 0 5px #cccacabd;
+    padding-top: 1rem;
+}
