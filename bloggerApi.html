@@ -85,20 +85,20 @@
                   <br>Maaf, paparan hanya untuk Telefon. Sila buka kat telefon.
                </h2>
          </div>
-      <amp-list width="auto" height="600" layout="fixed-height" src="imagelist.json">
+      <amp-list width="auto" height="600" layout="fixed-height" src="https://www.googleapis.com/blogger/v3/blogs/7438540405536441732/posts?key=AIzaSyA1_ylMkcl3dow7iuvW9W57AwnSAvKZ3JY">
          <template type="amp-mustache">
-
 
 
             <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card hide-pc" style="margin:0 auto">
                <b class="  
-                  display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
+                  display-6 text-center  mbr-fonts-style">{{author.displayName}}: {{title}}</b>
                <br>
-               <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" 
+               <amp-img src="{{images}}" on="tap:lightbox1" role="button" tabindex="0" 
                   width="auto" height="550"></amp-img>
+                  
                <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
                <div class="item-social pt-2 text-center mt-1">
-                  <a href="{{facebook}}" target="_blank">
+                  <a href="{{labels}}" target="_blank">
                   <span class="p-2 socicon-facebook socicon mbr-iconfont mbr-iconfont-social" style="font-size: 25px;"></span>
                   </a>
                   <a href="{{instagram}}" target="_blank">
@@ -108,7 +108,7 @@
                </div>
             </div>
          </template>
-         <div overflow class="list-overflow" style="background-color:rgb(255, 166, 0);padding:1rem; ">
+         <div overflow class="list-overflow" style="background-color:rgb(255, 166, 0);padding:1rem;margin:1rem; ">
             Takde internet acane nak baca? Menung je la...
          </div>
       </amp-list>
