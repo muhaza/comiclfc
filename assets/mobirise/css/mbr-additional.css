@@ -83,6 +83,8 @@ body {
       padding-top: 1rem;
       padding-bottom: 0.3rem;
   }
+
+  
 }
 /* Buttons */
 .btn {
@@ -1093,6 +1095,7 @@ section.lazy-placeholder:after {
   .cid-qTkzRZLJNu .menu-logo {
     flex-shrink: 0;
   }
+
 }
 .cid-qTkzRZLJNu .navbar-collapse {
   flex-basis: auto;
@@ -2136,3 +2139,14 @@ section.lazy-placeholder:after {
 }
 
 
+@media (min-width: 767px) {
+  .hide-pc{
+    display:none;
+  }
+}
+
+@media (max-width: 767px) {
+  .hide-mobile{
+    display:none;
+  }
+}

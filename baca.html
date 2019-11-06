@@ -45,7 +45,7 @@
                <div class="navbar-brand">
                   <span class="navbar-logo">
                   <a
-                     href="http://api-lunacy.icons8.com/api/assets/4b94433e-4179-4bf3-8d21-3d9e9f722243/logo-removebg-preview.png">
+                     href="/">
                   <img src="assets/images/logo-removebg-preview-122x122.png" alt="LFC" title="Logo"
                      style="height: 3.8rem;">
                   </a>
@@ -76,14 +76,18 @@
          </nav>
       </section>
       <br><br><br>
-      <div class="container pb-3 mb-3" style="background-color:lightgrey;">
-         <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style">
-            <br>Karya disusun dari Baru ke Lama
-         </h2>
-      </div>
+      <div class="pb-3 mb-3" style="background-color:lightgrey;">
+            <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style hide-pc">
+               <br>Karya disusun dari Baru ke Lama
+            </h2>
+   
+            <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style hide-mobile">
+                  <br>Maaf, paparan hanya untuk Mobile. Sila buka kat telefon ye.
+               </h2>
+         </div>
       <amp-list width="auto" height="600" layout="fixed-height" src="imagelist.json">
          <template type="amp-mustache">
-            <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card" style="margin:0 auto">
+            <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card hide-pc" style="margin:0 auto">
                <b class="  
                   display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
                <br>
