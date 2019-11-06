@@ -2139,13 +2139,13 @@ section.lazy-placeholder:after {
 }
 
 
-@media (min-width: 500px) {
+@media (min-width: 600px) {
   .hide-pc{
     display:none;
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width:600px) {
   .hide-mobile{
     display:none;
   }
