@@ -27,13 +27,13 @@
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script>
+    <!-- <script>
         $(document).ready(function() {
             $("span#feedBack").click(function() {
                 $(".fbComment").toggle();
             });
         });
-    </script>
+    </script> -->
 
 </head>
 
@@ -122,9 +122,9 @@
                   <span id="feedBack" class="p-2 mbri-cust-feedback"
                      style="font-size: 25px; color:#ffbe33"></span>
                </a>
-               <div class="fbComment" style="display: none;">
+               <div class="fbComment">
                      <div class="fb-comments"
-                      data-href="https://www.facebook.com/114390319925555/photos/a.117522176279036/148354463195807/?type=3&amp;theater&amp;ifg=1" 
+                      data-href="{{comments}}" 
                       data-width="400px" data-numposts="3"></div>
                </div>
 
