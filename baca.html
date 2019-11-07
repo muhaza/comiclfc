@@ -99,13 +99,13 @@
 
     <!-- start amp list from json -->
 
-    <amp-list width="auto" height="550" layout="fixed-height" src="imagelist.json">
+    <amp-list width="1" height="1.33" layout="responsive" src="imagelist.json">
         <template type="amp-mustache">
          <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card hide-pc" style="margin:0 auto">
             <b class="  
                   display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
             <br>
-            <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="auto" height="550" style="zoom:150%">
+            <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="1" height="1.33" layout="responsive">
             </amp-img>
             <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
             <div class="item-social pt-2 text-center mt-1">
