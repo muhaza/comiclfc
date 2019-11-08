@@ -97,48 +97,6 @@
         </h2>
     </div>
 
-    <!-- start amp list from json -->
-
-    <amp-list width="1" height="1.33" layout="responsive" src="imagelist.json">
-        <template type="amp-mustache">
-         <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card hide-pc" style="margin:0 auto">
-            <b class="  
-                  display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
-            <br>
-            <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="1" height="1.33" layout="responsive">
-            </amp-img>
-            <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
-            <div class="item-social pt-2 text-center mt-1">
-               <a href="{{facebook}}" target="_blank">
-                  <span class="p-2 socicon-facebook socicon mbr-iconfont mbr-iconfont-social"
-                     style="font-size: 25px;"></span>
-               </a>
-               <a href="{{instagram}}" target="_blank">
-                  <span class="p-2 socicon-instagram socicon mbr-iconfont mbr-iconfont-social"
-                     style="font-size: 25px; color:#ff3366"></span>
-               </a>
-               <!-- jquery -->
-               <a >
-                  <span id="feedBack" class="p-2 mbri-cust-feedback"
-                     style="font-size: 25px; color:#ffbe33"></span>
-               </a>
-               <div class="fbComment">
-                     <div class="fb-comments"
-                      data-href="{{comments}}" 
-                      data-width="400px" data-numposts="3"></div>
-               </div>
-
-               
-            </div>
-         </div>
-      </template>
-
-        <div overflow class="list-overflow" style="background-color:rgb(255, 166, 0);padding:1rem;margin:1rem;">
-            Takde internet acane nak baca? Menung je la...
-        </div>
-    </amp-list>
-    <h1><br></h1>
-    <h1><br></h1>
 
     <script>
         function utamaButton() {
