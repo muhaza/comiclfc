@@ -1,5 +1,21 @@
 {
     "items": [{
+            "nama": "MOQ",
+            "title": "RAIKAN CINTA",
+            "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/74440796_150276743003579_2619869414211715072_o.jpg?_nc_cat=106&_nc_oc=AQmTq6IJBRXtedLb91F8rwx7pFoWteFU3FYH7Yl2m3hn_wsHU3p-bi3JnzplIu9YSIg&_nc_ht=scontent.fkul13-1.fna&oh=a58b3a02a445de0e9447e8e0340211e0&oe=5E610629",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/150276739670246/?type=3&theater",
+            "instagram": "https://www.instagram.com/lemburock98/",
+            "shareUrl": "https://comiclfc.web.app"
+        },
+        {
+            "nama": "WOREN76",
+            "title": "OTROMEN TAROK",
+            "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/60700078_361013991185237_5846471111524483072_o.jpg?_nc_cat=110&_nc_eui2=AeFBtX_dISDsTbxsOYg65rujdOYhKbp6ZfNN92rAl0o5WjyU8tAVj8bZBsmnU0wfJR7fLrEmIWR0_AiXePpBHcqfhJ1chrljd3QubqyWF5850w&_nc_oc=AQn_-JbWM9VFmIe-0Ard6MJBSLT_QtTKhl5HHmn8ZDY-Djqcp0l_uAoTdBdS3h3kcRY&_nc_ht=scontent.fkul13-1.fna&oh=96063a5cd2eef0e0157b472e30de821b&oe=5E6097FF",
+            "facebook": "https://www.facebook.com/kartunkripto/photos/a.177911419495496/361013984518571/?type=3&theater",
+            "instagram": "instagram.com/kartun.kripto.woren76",
+            "shareUrl": "https://comiclfc.web.app"
+        },
+        {
             "nama": "UDANG",
             "title": "PINJAM",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/75362547_150190389678881_2851342042359922688_o.jpg?_nc_cat=108&_nc_eui2=AeEXnBFs0ihrzKhWMZUk12oDFR12RssfuZqdmHyhU6Mo5Laxahf40SXQY4lnKnnjardjtsHZmA7_LGQnLASmHiWPnaQQYkCRQfRNyo1VAhzOvQ&_nc_oc=AQmUlb62Ufgn1mic5bKynQPHOPOFF1AukhbKy-8o5UoFWpk4PznE-3NeGgDmXNzCjew&_nc_ht=scontent.fkul13-1.fna&oh=b68acaadf229986360792f1aadd430ce&oe=5E441C0B",
@@ -7,13 +23,12 @@
             "instagram": "https://www.instagram.com/lemburock98/",
             "shareUrl": "https://comiclfc.web.app"
         },
-
         {
             "nama": "WOREN76",
             "title": "SUPER BASI MENCUCI LEBIH BERSIH",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/60853080_362493231037313_8339661457478123520_o.jpg?_nc_cat=103&_nc_eui2=AeE-zgmoVpYZflyUbAoQcQ3hXkQi8T4p8PLznkkAYrV2jl1OYZh3z5apRCbFCeFHK0cb1ptkRAjg1Fch4wKe615R9exyWBkcbGFeuhywgTL0-A&_nc_oc=AQlB3MWO9OJrRXK-NosOa1h77H6CVf5u9Kz_B48QNPWOfDXwEXLBMr_wHOGuOoH-U7w&_nc_ht=scontent.fkul13-1.fna&oh=7d9cc1a0f69faad8936b49ed202fb13d&oe=5E49A25B",
             "facebook": "https://www.facebook.com/177905206162784/posts/362493364370633/",
-            "instagram": "https://www.instagram.com/lemburock98/",
+            "instagram": "instagram.com/kartun.kripto.woren76",
             "shareUrl": "https://comiclfc.web.app"
         },
         {
@@ -60,10 +75,9 @@
             "nama": "MASZ KAMEHAMEHA",
             "title": "ZAMAN TAK ADA GADGET",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/75402184_421291902126744_227206544507273216_n.jpg?_nc_cat=100&_nc_eui2=AeFLymRJiGG1RBemAZvda1Q94tBzEHXm85yF_wlkJB04Ts2KtPF5nE4REp4_FZ9Sn7gQfukm6tomjuAA1-RsZS3FChiUJmhNFNVSMgrW-WVJGg&_nc_oc=AQmysJjYao9PjQ8q0gpHu_lRoe0QcFQDo9kQj08tyoVq2kn58F96Fhy6ZChg6ft6a64&_nc_ht=scontent.fkul13-1.fna&oh=26f4732cad9d628bf226e6fc0128b8b3&oe=5E5842DA",
-            "shareUrl": "https://www.facebook.com/258045345118068/photos/a.258209328435003/421291898793411/?type=3&theater&ifg=1",
+            "shareUrl": "https://fb.com/rilekkejap",
             "facebook": "https://www.facebook.com/258045345118068/photos/a.258209328435003/421291898793411/?type=3&theater&ifg=1",
-            "instagram": "http://www.instagram.com",
-            "shareUrl": "https://fb.com/rilekkejap"
+            "instagram": "http://www.instagram.com"
         },
         {
             "nama": "KISAN",
@@ -77,19 +91,17 @@
             "nama": "FENDI",
             "title": "WAK WAK",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/76608798_149485346416052_3365335519000002560_n.jpg?_nc_cat=106&_nc_eui2=AeEelzIIE70qLHOUy8A4oSDewnEjYXXbUi1JE6a9kDKACeJ8GBFyOfbRjpWGXtLrpu6BAz1sv2QNwAre9XVBiWcHrz5hVDyyQCylpL-WrAhY7Q&_nc_oc=AQlRK6VLFJk5tzXtsNWeUj2qxcrfHCjp-6YqJw-vyJDfKNcjyKmmr7sk3vQhmi5_Cz0&_nc_ht=scontent.fkul13-1.fna&oh=acb810470ed1a48f649508a8b81634f9&oe=5E536217",
-            "shareUrl": "https://www.facebook.com/114390319925555/photos/a.114450313252889/149485343082719/?type=3&theater",
+            "shareUrl": "https://fb.com/rilekkejap",
             "facebook": "https://www.facebook.com/114390319925555/photos/a.114450313252889/149485343082719/?type=3&theater",
-            "instagram": "http://www.instagram.com",
-            "shareUrl": "https://fb.com/rilekkejap"
+            "instagram": "http://www.instagram.com"
         },
         {
             "nama": "KOLAPIS",
             "title": "ARTWORK CURI",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/73232854_149347896429797_1048237088425639936_o.jpg?_nc_cat=111&_nc_eui2=AeFj145THS-zB03myDDjTSg8JOSGWcETPvTuAPvsD5CZqixexnEsMeBQYDIBw9goU21uW6mjrgkQA2XShTCB7dsrc-XkU_euOW9C-6O7j-g6nw&_nc_oc=AQkfW25DWDi8Hhk3SSLaqYt_Dco1us-GfIZNan_xR3jFXuRZM4_SWvPtk3NfwP8pCXc&_nc_ht=scontent.fkul13-1.fna&oh=dd658a430ad31c12e7161896cef1b4f1&oe=5E546946",
-            "shareUrl": "https://www.facebook.com/114390319925555/photos/a.114450313252889/149347893096464/?type=3&theater",
+            "shareUrl": "https://fb.com/rilekkejap",
             "facebook": "https://www.facebook.com/114390319925555/photos/a.114450313252889/149347893096464/?type=3&theater",
-            "instagram": "http://www.instagram.com",
-            "shareUrl": "https://fb.com/rilekkejap"
+            "instagram": "http://www.instagram.com"
         },
         {
             "nama": "FAHMI",
@@ -137,7 +149,6 @@
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/74863288_149018676462719_2650269227092541440_n.jpg?_nc_cat=108&_nc_eui2=AeF-0dyMOeXKdQ4m037SvFxMSJXC63v34ra5XdQABdm42ROXl_BbZEZNhy32Zpng2Bsfk0_THP4_1Kb1mMKcSS2AHhfZWuQ6WZ5QZJqaqMvWsA&_nc_oc=AQn4VwUXWFigKz4P-KecliWd5WDNYqh99-mVp8mYb8w_gnTCCiJQOQ6OBUiusY2kIHs&_nc_ht=scontent.fkul13-1.fna&oh=cf5293375fb1e6503a92079b3599f9e4&oe=5E469557",
             "facebook": "https://www.facebook.com/114390319925555/photos/a.114450313252889/149018673129386/?type=3&av=114390319925555&eav=AfZ0xnX3M73rV0rzGfKDtcWIP9yOABXzNz6Xk3EtDiAqRVhmSpPC5O7XZ4GZXvCBB4M&theater",
             "instagram": "http://www.instagram.com",
-            "shareUrl": "https://www.facebook.com/spikey.muhaza",
             "shareUrl": "https://www.facebook.com/114390319925555/photos/a.114450313252889/149018673129386/?type=3&av=114390319925555&eav=AfZ0xnX3M73rV0rzGfKDtcWIP9yOABXzNz6Xk3EtDiAqRVhmSpPC5O7XZ4GZXvCBB4M&theater"
         },
         {
@@ -146,7 +157,6 @@
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/70403527_148381859859734_7030008345608060928_n.jpg?_nc_cat=111&_nc_oc=AQnbsxWIBh1vknkIexl740JugPEfj0rw9EHOityBvapcDath_OY9i4aElO3XNwqhKgg&_nc_ht=scontent.fkul13-1.fna&oh=19245a6d3f0f819e23dbb4a59896788d&oe=5E5B1599",
             "facebook": "http://www.facebook.com/muhazastudio",
             "instagram": "http://www.instagram.com/hidungkembang.gigijongang",
-            "shareUrl": "http://www.facebook.com/muhazastudio",
             "shareUrl": "http://www.facebook.com/muhazastudio"
         }
     ]
