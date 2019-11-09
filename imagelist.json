@@ -1,5 +1,37 @@
 {
     "items": [{
+            "nama": "FENDI",
+            "title": "KAWIN",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/2ba150a4-a93f-4e93-8c04-ebefb24c0839/fendi.png",
+            "facebook": "https://www.facebook.com/rilekkejap.apen/",
+            "instagram": "https://www.instagram.com/rilekkejap/",
+            "shareUrl": "https://www.facebook.com/rilekkejap.apen/"
+        },
+        {
+            "nama": "MIRA",
+            "title": "CARI PASAL",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/65017c54-052e-4246-880e-656c41184fb5/comica1572516066379.png",
+            "facebook": "https://www.facebook.com/muhazastudio/",
+            "instagram": "https://www.instagram.com/muhazastudio/",
+            "shareUrl": "https://muhaza-studio.web.app"
+        },
+        {
+            "nama": "ALIA / LEE MING",
+            "title": "LATE FOR DATE (1)",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/fa1b1a52-651e-470b-893d-50d7737dd39f/artboard-copy@2x.png",
+            "facebook": "https://www.facebook.com/iori.rin.studio/",
+            "instagram": "https://www.instagram.com/muhazastudio/",
+            "shareUrl": "http://fire-doused.deviantart.com"
+        },
+        {
+            "nama": "ALIA / LEE MING",
+            "title": "LATE FOR DATE (2)",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/85ac3ede-94aa-4dc7-9316-b5a15178d971/artboard@2x.png",
+            "facebook": "https://www.facebook.com/iori.rin.studio/",
+            "instagram": "https://www.instagram.com/muhazastudio/",
+            "shareUrl": "http://fire-doused.deviantart.com"
+        },
+        {
             "nama": "MOQ",
             "title": "RAIKAN CINTA",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/74440796_150276743003579_2619869414211715072_o.jpg?_nc_cat=106&_nc_oc=AQmTq6IJBRXtedLb91F8rwx7pFoWteFU3FYH7Yl2m3hn_wsHU3p-bi3JnzplIu9YSIg&_nc_ht=scontent.fkul13-1.fna&oh=a58b3a02a445de0e9447e8e0340211e0&oe=5E610629",
