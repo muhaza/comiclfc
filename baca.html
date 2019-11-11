@@ -26,13 +26,23 @@
     <link rel="stylesheet" href="assets/theme/css/style.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script>
+        function zoomOutMobile() {
+            var viewport = document.querySelector('meta[name="viewport"]');
+
+            if (viewport) {
+                viewport.content = "initial-scale=0.1";
+                viewport.content = "width=600";
+            }
+        }
+
+        zoomOutMobile();
+    </script>
 
 </head>
 
 <body>
-
-
     <section class="menu cid-qTkzRZLJNu" once="menu" id="menu1-7">
         <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -100,9 +110,10 @@
             <b class="  
                   display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
             <br>
-            <amp-img src="{{imageUrl}}" on="tap:lightbox1" role="button" tabindex="0" width="1" height="1.33" layout="responsive">
+
+            <amp-img  src="{{imageUrl}}" width="1" height="1.33" tabindex="0"  layout="responsive" on="tap:lightbox1" role="button" >
             </amp-img>
-            <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
+            <!-- <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox> -->
             <div class="item-social pt-2 text-center mt-1">
                <a href="{{facebook}}" target="_blank">
                   <span class="p-2 socicon-facebook socicon mbr-iconfont mbr-iconfont-social"
@@ -129,8 +140,7 @@
     <h1><br></h1>
     <h1><br></h1>
     <h1><br></h1>
-    <h1><br></h1>
-    <h1><br></h1>
+
 
     <script>
         function utamaButton() {
@@ -187,6 +197,8 @@
             })
         })
     </script>
+
+
 </body>
 
 </html>
