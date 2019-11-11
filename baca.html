@@ -28,7 +28,12 @@
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 
-
+    <style>
+        .i-amphtml-fill-content:hover {
+            width: 800px !important;
+            height: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -100,7 +105,7 @@
                   display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
             <br>
 
-            <amp-img  src="{{imageUrl}}" width="1" height="1.33" tabindex="0"  layout="responsive" on="tap:lightbox1" role="button" >
+            <amp-img class="picture" src="{{imageUrl}}" width="1" height="1.33" tabindex="0"  layout="responsive" on="tap:lightbox1" role="button" >
             </amp-img>
             <!-- <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox> -->
             <div class="item-social pt-2 text-center mt-1">
@@ -149,7 +154,7 @@
     </script>
 
 
-    <section once="footers" class="cid-rGR5fMFAeH hide-mobile" id="footer7-6" style="z-index: 10;">
+    <section once="footers" class="cid-rGR5fMFAeH hide-PC" id="footer7-6" style="z-index: 10;">
         <div class="container">
             <div class="media-container-row align-center mbr-white">
                 <div class="row row-links">
