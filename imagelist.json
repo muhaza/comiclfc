@@ -1,5 +1,46 @@
 {
-    "items": [{
+    "items": [
+        {
+            "nama": "BOB ASRI",
+            "title": "OPAH CUCU",
+            "imageUrl": "https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/s960x960/70307126_150549876309599_8266105486789574656_o.jpg?_nc_cat=102&_nc_oc=AQnA6sz7herAUzDUjENcFFtx-hDVff8ZGpq9cynioXSkEUOi5ZceDRlN9I2PFGY_fR8&_nc_ht=scontent.fkul16-1.fna&oh=fd8cc228823f98f018896b8a62a38c07&oe=5E4893C5",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.117522176279036/150549869642933/?type=3&theater",
+            "instagram": "https://www.instagram.com/",
+            "shareUrl": "https://www.facebook.com/"
+        },
+        {
+            "nama": "NAPIE",
+            "title": "PRODUK",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/6ec52350-bdaf-41ad-8982-c8e005b19c95/napie.png",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/150647486299838/?type=3&theater",
+            "instagram": "https://www.instagram.com/bujangkartun",
+            "shareUrl": "https://www.facebook.com/"
+        },
+        {
+            "nama": "BISKOT",
+            "title": "TEBAL",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/52e822e6-6ea2-436d-9d2e-78e506f6a1bc/biskot.png",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/150282979669622/?type=3&theater",
+            "instagram": "https://www.instagram.com/",
+            "shareUrl": "https://www.facebook.com/"
+        },
+        {
+            "nama": "MIRA",
+            "title": "PANAS",
+            "imageUrl": "https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/p720x720/75231685_150807706283816_9180185470678597632_o.jpg?_nc_cat=108&_nc_oc=AQn-k4NYlgWiSfJRTxvfqIGedoFXk3DJK_vifsGNfRAzVjeLcvNZJAWr3ymulJVEA2U&_nc_ht=scontent.fkul16-1.fna&oh=25d647d3fa25b603b0fd3185fa7ff5fd&oe=5E5B40D0",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/150807696283817/?type=3&theater",
+            "instagram": "https://www.instagram.com/",
+            "shareUrl": "https://www.facebook.com/"
+        },
+        {
+            "nama": "AMARUL",
+            "title": "BASAH",
+            "imageUrl": "https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/s960x960/74218640_150892059608714_3406345258311614464_o.jpg?_nc_cat=106&_nc_oc=AQl9xpOBUxshFrdPufM2xWmhhquK5wLQ0Xou7dWCbCLxWuFvCLF4k9qUyGyDocGIEHQ&_nc_ht=scontent.fkul16-1.fna&oh=94c5985ee3cf912ef56d1329ad9e452c&oe=5E4F23B9",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.117522176279036/150892052942048/?type=3&theater",
+            "instagram": "https://www.instagram.com/",
+            "shareUrl": "https://www.facebook.com/"
+        },
+        {
             "nama": "FENDI",
             "title": "KAWIN",
             "imageUrl": "http://api-lunacy.icons8.com/api/assets/2ba150a4-a93f-4e93-8c04-ebefb24c0839/fendi.png",
@@ -148,7 +189,7 @@
             "title": "DAH PANDAI",
             "facebook": "https://www.facebook.com/114390319925555/photos/a.117522176279036/148260033205250/?type=3&theater&ifg=1",
             "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/73458768_148260043205249_6801044914663587840_o.jpg?_nc_cat=106&_nc_eui2=AeFSoIlS4IhQMXFBQYZtaIucEo2ief3MXnBxbqVUra-ooYdAkJ-9O-W4fvxb2xUOo5x3Rj64edzH4uVo93ddQ9woqJN7kmcGJw8Jf7CBc42RTQ&_nc_oc=AQk7X7S9q-BwDdJQStuYswdtzTNNGcf-0eWyGmR-aSqKalGBzVoUZSVonyZ1QwAeWms&_nc_ht=scontent.fkul13-1.fna&oh=f196269f37e0cdd14469915f12c64fe0&oe=5E48D14B",
-            "instagram": "http://www.instagram.com",
+            "instagram": "http://www.instagram.com/muhazastudio",
             "shareUrl": "https://www.facebook.com/114390319925555/photos/a.117522176279036/148260033205250/?type=3&theater&ifg=1"
         },
         {

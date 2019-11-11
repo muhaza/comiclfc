@@ -1,0 +1,25 @@
+mallestScreenSize|uiMode" android:name="com.aerserv.sdk.view.ASWebviewInterstitialActivity" />
+  <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="com.aerserv.sdk.view.ASVpaidInterstitalActivity" />
+  <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="com.aerserv.sdk.view.AerServFullScreenAdActivity" />
+  <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="true" android:name="com.unity3d.ads.adunit.AdUnitActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+  <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="true" android:name="com.unity3d.ads.adunit.AdUnitTransparentActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+  <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="false" android:name="com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+  <activity android:configChanges="fontScale|keyboard|keyboardHidden|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:hardwareAccelerated="false" android:name="com.unity3d.ads.adunit.AdUnitSoftwareActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+  <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.amazon.device.ads.AdActivity" />
+  <activity android:configChanges="orientation|screenSize" android:name="com.ogury.consent.manager.ConsentActivity" />
+  <meta-data android:name="showEula" android:value="false" />
+  <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService" />
+  <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+   <intent-filter>
+    <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+    <category android:name="com.wComicLFC_9812390" />
+   </intent-filter>
+  </receiver>
+  <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+   <intent-filter android:priority="-500">
+    <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+   </intent-filter>
+  </service>
+  <provider android:authorities="com.wComicLFC_9812390.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider" />
+ </application>
+</manifest>
