@@ -1,9 +1,9 @@
 document.getElementById("pesanan1").innerHTML =
-    `<a class="align-center btn btn-sm btn-secondary display-4">Versi Anda : BETA</a>`;
-
-document.getElementById("pesanan2").innerHTML =
     `Siapa kata komik hanya boleh dilukis oleh pelukis komik atau kartunis. 
     Kami di Comic LFC menerima semua bentuk kartun dan kami menggalakkan bukan pelukis untuk bersama-sama memeriahkan task kami!`;
+
+document.getElementById("pesanan2").innerHTML =
+    `<a class="align-center btn btn-sm btn-secondary display-4">Versi Anda : BETA</a>`;
 
 document.getElementById("footer-tab").innerHTML =
     `<div class="media-container-row align-center mbr-white">
