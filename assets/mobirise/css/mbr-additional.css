@@ -875,7 +875,7 @@ section.lazy-placeholder:after {
 }
 
 .cid-qTkzRZLJNu .navbar {
-    padding: .5rem 0;
+    padding: .3rem 0;
     background: #f9a004;
     transition: none;
     min-height: 77px;
@@ -1992,13 +1992,16 @@ section.lazy-placeholder:after {
 
 .cid-qTkzRZLJNu .navbar {
     padding: .5rem 0;
-    background: #f9a004;
+    background: rgb(253, 100, 29);
+    background: linear-gradient(311deg, rgba(253, 100, 29, 1) 0%, rgba(255, 171, 0, 1) 100%);
     transition: none;
     min-height: 77px;
+    box-shadow: 0px 2px 4px 0px #a5a5a55c;
 }
 
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-    background: #f9a004;
+    background: rgb(253, 100, 29);
+    background: linear-gradient(311deg, rgba(253, 100, 29, 1) 0%, rgba(255, 171, 0, 1) 100%);
 }
 
 .cid-qTkzRZLJNu a {
@@ -2433,9 +2436,10 @@ section.lazy-placeholder:after {
 }
 
 .cid-rGR5fMFAeH {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: #f9a004;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    background: rgb(253, 100, 29);
+    background: linear-gradient(311deg, rgba(253, 100, 29, 1) 0%, rgba(255, 171, 0, 1) 100%);
 }
 
 .cid-rGR5fMFAeH .row-links {
