@@ -1,3 +1,5 @@
+document.getElementById("hamburger-button").style.display = "block";
+
 document.getElementById("pesanan").innerHTML =
     `Siapa kata komik hanya boleh dilukis oleh pelukis komik atau kartunis. 
     Kami di Comic LFC menerima semua bentuk kartun dan kami menggalakkan bukan pelukis untuk 
