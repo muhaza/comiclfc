@@ -77,6 +77,7 @@
             </div>
         </nav>
     </section>
+
     <br><br><br>
     <div class="pb-3 mb-3" style="background-color:lightgrey;">
         <h4 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style hide-pc">
@@ -97,14 +98,14 @@
 
     <amp-list width="1" height="" layout="responsive" src="https://api.jsonbin.io/b/5dc5372ece068a7724687943/latest">
         <template type="amp-mustache">
-         <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card hide-pc" style="margin:0 auto">
+         <div class="image-entry col-sm col-md-6 col-lg-4 lfc-card hide-pc easyzoom" style="margin:0 auto">
             <b class="  
                   display-6 text-center  mbr-fonts-style">{{nama}}: {{title}}</b>
             <br>
-
-            <amp-img class="picture" src="{{imageUrl}}" width="1" height="1.33" tabindex="0"  layout="responsive" on="tap:lightbox1" role="button" >
-            </amp-img>
-            <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
+            <a href="{{imageUrl}}">
+            <amp-img class="picture" src="{{imageUrl}}" width="1" height="1.33" tabindex="0"  layout="responsive"  >
+            </amp-img></a>
+            <!-- <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox> on="tap:lightbox1" role="button"-->
             <div class="item-social pt-2 text-center mt-1">
                <a href="{{facebook}}" target="_blank">
                   <span class="p-2 socicon-facebook socicon mbr-iconfont mbr-iconfont-social"
@@ -123,6 +124,7 @@
             </div>
          </div>
       </template>
+
 
         <div overflow class="list-overflow" style="background-color:rgb(255, 166, 0);padding:1rem;margin:1rem;">
             Takde internet, line slow.. Itu semua doonia.. Ayuh Berzikir.
