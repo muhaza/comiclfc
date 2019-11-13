@@ -1,5 +1,37 @@
 {
     "items": [{
+            "nama": "NAPIE",
+            "title": "MEMUDAH-RATKAN",
+            "imageUrl": "http://api-lunacy.icons8.com/api/assets/c6d78136-c52c-4f6d-bf0e-78fbf886a01b/napie@0.5x.png",
+            "facebook": "https://www.facebook.com/bujangkartun",
+            "instagram": "https://www.instagram.com/bujangkartun",
+            "shareUrl": "https://www.facebook.com/bujangkartun"
+        },
+        {
+            "nama": "MASZ KAMEHAMEHA",
+            "title": "RAMBUT",
+            "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/p720x720/69803305_151457642885489_7026645467819671552_o.jpg?_nc_cat=105&_nc_oc=AQl4xHWdEqC_dq33bH9odiMhv2JOeBsnfOMeX-CQxHRKHcVr2--69rbJNu685IsvvIM&_nc_ht=scontent.fkul13-1.fna&oh=d9b6c9d277b671f258673d795b9d2932&oe=5E5E5D74",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/151457639552156/?type=3&theater",
+            "instagram": "https://www.instagram.com/rexhanif",
+            "shareUrl": "https://www.facebook.com/adzhar.moq.5"
+        },
+        {
+            "nama": "MOQ",
+            "title": "ANAK BAPAK",
+            "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/74801133_151439282887325_354453600715407360_o.jpg?_nc_cat=102&_nc_oc=AQk0-p42sXwXeaY-hkXNJwEb1b1Tme58AuV56m1xo15pt74erkVmOjUn7SjaDcHeYJs&_nc_ht=scontent.fkul13-1.fna&oh=5e6d20fa91ae76e12500f749fd79737a&oe=5E4A5873",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/151439279553992/?type=3&theater",
+            "instagram": "https://www.instagram.com/rexhanif",
+            "shareUrl": "https://www.facebook.com/adzhar.moq.5"
+        },
+        {
+            "nama": "REX HANIF",
+            "title": "#AKRAB",
+            "imageUrl": "https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/s960x960/77399650_151387199559200_6091080266514694144_o.jpg?_nc_cat=110&_nc_oc=AQnX_mpascbi1pDnn9oUPrPI4buX61naDVsxqrjwqh6m6Suu0oMNd9O-K3v2LX_3_eo&_nc_ht=scontent.fkul13-1.fna&oh=af460e68a7ed0a372bc9094beb25d1e3&oe=5E4E6E72",
+            "facebook": "https://www.facebook.com/AdminKentaL/photos/a.114450313252889/151387196225867/?type=3&theater",
+            "instagram": "https://www.instagram.com/rexhanif",
+            "shareUrl": "https://www.facebook.com/hashtag/intheboringguy?epa=HASHTAG"
+        },
+        {
             "nama": "BOB ASRI",
             "title": "OPAH CUCU",
             "imageUrl": "https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/s960x960/70307126_150549876309599_8266105486789574656_o.jpg?_nc_cat=102&_nc_oc=AQnA6sz7herAUzDUjENcFFtx-hDVff8ZGpq9cynioXSkEUOi5ZceDRlN9I2PFGY_fR8&_nc_ht=scontent.fkul16-1.fna&oh=fd8cc228823f98f018896b8a62a38c07&oe=5E4893C5",

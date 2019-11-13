@@ -6,7 +6,8 @@ document.getElementById("pesanan").innerHTML =
     bersama-sama memeriahkan task kami! Yahuu`;
 
 document.getElementById("update-button").innerHTML =
-    `<a class="align-center btn btn-sm btn-secondary display-4">Versi Anda : BETA</a>`;
+    `<a class="btn btn-sm btn-secondary display-4" href="https://comiclfc.web.app/_Comic_LFC_1.14.apk">DOWNLOAD</a>`;
+// `<a class="align-center btn btn-sm btn-secondary display-4">Versi Anda : BETA</a>`;
 
 document.getElementById("footer-tab").innerHTML =
     `<div class="media-container-row align-center mbr-white">
