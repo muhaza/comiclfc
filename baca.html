@@ -83,7 +83,7 @@
         <div class="hide-pc">
             <h4 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style ">
                 <br>YUHHU!!! Meh ler Update layari <br>
-                <a href="googlechrome://bit.ly/appLFCv114" target="_blank"> comiclfc.web.app</a>
+                <span class="btn btn-sm btn-secondary display-4" onclick="downloadUrl()">comiclfc.web.app</span>
             </h4>
         </div>
         <h2 class="mbr-section-subtitle  display-6 align-center mbr-light mbr-fonts-style hide-mobile">
@@ -138,6 +138,11 @@
 
 
     <script>
+        function downloadUrl() {
+            window.navigator.vibrate(100);
+            window.location.href = "http://bit.ly/appLFCv114";
+        }
+
         function utamaButton() {
             window.navigator.vibrate(100);
             window.location.href = "https://muhaza.github.io/comiclfc/index.html";
